@@ -24,9 +24,10 @@
   sudo apt update -y && sudo apt upgrade -y
   ```
 
-To set up the development environment, install the following packages on Ubuntu. Run the command below:
+To set up the development environment, install the following packages on Ubuntu.
+- Run the command below:
 
-```bash
-sudo apt install -y g++ gcc gdb git cmake make build-essential coreutils tree ncurses
-```
+  ```bash
+  sudo apt install -y g++ gcc gdb git cmake make build-essential coreutils tree ncurses
+  ```
 
