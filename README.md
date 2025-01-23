@@ -1,7 +1,7 @@
 # Dotfiles
 
 ## Shortcuts/Alises for Ubuntu
-### How to add it your Setup
+### How to add it in your Setup
 - Open bashrc fill
   ```bash
   vim ~/.bashrc
